@@ -1,6 +1,6 @@
 
 	{
-"version": "v2",
+"version": "v2 Rokosmos",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "1",
